@@ -1,0 +1,3 @@
+[submodule "Implementation/foler-name"]
+	path = Implementation/foler-name
+	url = https://github.com/Sriram-Merugu/Heart-Disease-Prediction.git
