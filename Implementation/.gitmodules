@@ -1,0 +1,6 @@
+[submodule "Clustering-of-private-and-government-colleges"]
+	path = Clustering-of-private-and-government-colleges
+	url = https://github.com/Sriram-Merugu/Clustering-of-private-and-government-colleges.git
+[submodule "Heart-Disease-Prediction"]
+	path = Heart-Disease-Prediction
+	url = https://github.com/Sriram-Merugu/Heart-Disease-Prediction.git
