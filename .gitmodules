@@ -1,3 +1,7 @@
-[submodule "Implementation/foler-name"]
-	path = Implementation/foler-name
+[submodule "Implementation/Clustering-of-private-and-government-colleges"]
+	path = Implementation/Clustering-of-private-and-government-colleges
+	url = https://github.com/Sriram-Merugu/Clustering-of-private-and-government-colleges.git
+[submodule "Implementation/Heart-Disease-Prediction"]
+	path = Implementation/Heart-Disease-Prediction
 	url = https://github.com/Sriram-Merugu/Heart-Disease-Prediction.git
+ 
